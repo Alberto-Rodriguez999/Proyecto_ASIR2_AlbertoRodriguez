@@ -1,4 +1,4 @@
-# Proyecto_ASIR2_ManuelDominguez
+# Proyecto_ASIR2_AlbertoRodriguez
 
 **Diseño de Infraestructura Empresarial Segura y Automatizada**
 
@@ -11,8 +11,8 @@
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 
-## Nombre del alumno:
-## Título del proyecto:
+## Nombre del alumno: Alberto Rodríguez Álamo
+## Título del proyecto: Mejora informática del sector vinícola.
 
 ## Índice del proyecto
 
