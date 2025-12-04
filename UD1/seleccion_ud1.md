@@ -24,4 +24,7 @@
 
 -   Procesos Manuales: La monitorización de temperatura en naves de crianza se realiza manualmente, sin registro histórico digital.
 
+![Captura del entorno](./img/banner1.png)
+
 ##### *Nos hemos basado en una empresa ficticia: Bodegas Finca El Roble S.L *
+
