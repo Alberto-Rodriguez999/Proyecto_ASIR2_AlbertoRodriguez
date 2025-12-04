@@ -34,4 +34,4 @@ El desarrollo del sistema **SMEGI** se estructura en cinco fases secuenciales qu
     * Configuración de copias de seguridad automatizadas (Política 3-2-1).
     * Pruebas de estrés y redacción de la documentación técnica final.
 
-![Captura del entorno](./img/final.png)
+![Captura del entorno](./img/fianl.png)
