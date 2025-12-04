@@ -9,7 +9,7 @@
 - [ ] **[3. Identificación de necesidades tecnológicas](./identificacion.md)**
 - [ ] **[4. Oportunidades y viabilidad del proyecto](./oportunidades.md)**
 - [ ] **[5. Obligaciones legales y normativas](./legalidad.md)**
-- [ ] **[6. Guion inicial del proyecto](./.md)**
+- [ ] **[6. Guion inicial del proyecto](./guion.md)**
 
 ## Enlaces a recursos de la unidad
 
