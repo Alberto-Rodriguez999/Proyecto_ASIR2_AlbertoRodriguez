@@ -8,7 +8,7 @@
 - [ ] **[2. Selección de la empresa o contexto de trabajo](./seleccion_ud1.md)**
 - [ ] **[3. Identificación de necesidades tecnológicas](./identificacion.md)**
 - [ ] **[4. Oportunidades y viabilidad del proyecto](./oportunidades.md)**
-- [ ] **[5. Obligaciones legales y normativas](./.md)**
+- [ ] **[5. Obligaciones legales y normativas](./legalidad.md)**
 - [ ] **[6. Guion inicial del proyecto](./.md)**
 
 ## Enlaces a recursos de la unidad
