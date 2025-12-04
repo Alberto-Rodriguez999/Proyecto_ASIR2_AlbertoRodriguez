@@ -30,8 +30,3 @@ El proyecto no requiere el desarrollo de hardware propietario ni tecnologías ex
 El enfoque del proyecto prioriza el **Retorno de Inversión (ROI)** mediante la reducción de costes de licenciamiento (CAPEX):
 * **Modelo Open Source:** El uso de Software Libre elimina el coste recurrente de licencias (Windows Server, herramientas de monitorización de pago).
 * **Hardware:** Se reutiliza y optimiza el hardware existente mediante virtualización, requiriendo una inversión mínima en sensores y electrónica de red (switches/firewall).
-
-#### 🎓 Viabilidad Académica (Alcance ASIR)
-El proyecto se ajusta perfectamente a las competencias del Ciclo Formativo de Grado Superior en Administración de Sistemas Informáticos en Red:
-* **Cubrimiento Curricular:** Integra administración de Sistemas Operativos, Gestión de Bases de Datos, Seguridad, Servicios de Red e Implantación de Aplicaciones Web.
-* **Realismo:** Es un proyecto realizable por un solo administrador en el tiempo estipulado, sin depender de desarrollos complejos de programación (ámbito DAM/DAW).
