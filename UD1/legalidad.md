@@ -23,3 +23,5 @@ El proyecto se basa en **Software Libre**, eliminando costes de licencias y gara
 La instalación física del hardware (Servidor y Rack) cumple con la normativa de seguridad industrial:
 * **Seguridad Eléctrica (RBT):** Cumplimiento del Reglamento Electrotécnico para Baja Tensión (tomas de tierra y protecciones) para evitar riesgos en un entorno industrial.
 * **Prevención de Riesgos (LPRL):** El equipamiento se ubicará en una zona ventilada y aislada acústicamente para cumplir con la normativa de ruido y ergonomía laboral.
+
+![Captura del entorno](./img/legalidad.png)
