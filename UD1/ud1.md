@@ -14,7 +14,7 @@
 ## Enlaces a recursos de la unidad
 
 - [Documentos de la unidad](./documentos/)
-- [Diagramas e imágenes](./img/)
+- [Imágenes](./img/)
 
   ## Bibliografía / Webgrafía 
 - Autor1, Título del libro o artículo, Editorial/Año.
