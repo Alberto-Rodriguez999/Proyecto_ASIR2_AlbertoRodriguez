@@ -1,24 +1,9 @@
-# 1. 🍇 Análisis del Sector Tecnológico: Vitivinicultura en Andalucía
+# 1. 🏙️ Análisis del Sector Tecnológico en Sevilla
 
-![Análisis Sectorial](https://img.shields.io/badge/Análisis%20%7C%20Vitivinicultura%20%7C%20Andalucía--2C3E50?style=for-the-badge&logo=github)
+![Análisis Sectorial](https://img.shields.io/badge/Análisis%20%7C%20Sector%20TIC%20%7C%20Sevilla--2C3E50?style=for-the-badge&logo=google-earth)
 
-### 1.1. Contexto y Desafíos del Sector
+### 1.1. Sevilla como Hub Tecnológico Internacional
+El sector tecnológico en Sevilla atraviesa un momento de expansión histórica, consolidándose como el principal motor económico de la provincia. El epicentro de esta actividad es el **Parque Científico y Tecnológico Cartuja (ahora Sevilla TechPark)**, que según su *Informe de Evolución y Desarrollo Tecnológico 2024*, ha incrementado su actividad económica un **13,7%** en el último ejercicio, alcanzando una facturación récord de **5.513 millones de euros**. Este ecosistema aglutina a más de 567 empresas y cerca de 30.000 trabajadores altamente cualificados, representando aproximadamente el **10% del PIB de la provincia**, lo que garantiza una oferta robusta de proveedores de infraestructura, centros de datos y talento especializado en administración de sistemas para soportar proyectos como SMEGI.
 
-El sector **vitivinícola andaluz**, pilar económico de la región, se encuentra en una coyuntura crítica que exige la modernización de sus infraestructuras operacionales. Las Pequeñas y Medianas Empresas (PyMEs) del sector afrontan la necesidad urgente de **digitalizar sus procesos** debido a dos vectores de presión principales: el **incremento sostenido del coste energético** y la estricta obligación de garantizar una **calidad de producto homogénea y constante**.
-
-Las bodegas operan frecuentemente con sistemas de control ambiental (temperatura y humedad) gestionados localmente, lo que deriva en una infraestructura obsoleta que carece de monitorización centralizada.
-
-> **Problemática Detectada:**
-> La falta de visibilidad y control proactivo conlleva un alto riesgo de **pérdida de producto** (lotes completos) ante fallos en la climatización, además de un **gasto energético ineficiente** por la imposibilidad de optimizar ciclos sin datos históricos.
-
----
-
-### 1.2. Oportunidad Tecnológica y Enfoque ASIR
-
-La inversión en una **infraestructura TIC robusta** se consolida como un factor de competitividad y un seguro contra pérdidas operacionales. El presente proyecto aborda esta brecha tecnológica mediante la implementación de soluciones propias de la Administración de Sistemas:
-
-* **Alta Disponibilidad:** Uso de **Virtualización** para asegurar la continuidad del servicio de control.
-* **Monitorización Proactiva:** Despliegue de sistemas **Open Source** para la gestión remota y alertas en tiempo real.
-* **Seguridad:** Infraestructura de red segmentada y acceso seguro para proteger los datos de producción.
-
-![Captura del entorno](./img/presentacion.png)
+### 1.2. Ecosistema de Innovación: Aeroespacial y Smart City
+Más allá de la Cartuja, Sevilla lidera sectores estratégicos como el **Aeroespacial**, impulsado por la sede de la *Agencia Espacial Española* y un clúster que facturó **2.914 millones de euros** en 2024 (+6,8%). Paralelamente, la ciudad está ejecutando estrategias de digitalización urbana (Smart City) a través de iniciativas como el proyecto **Sevilla NODE**, dotado con fondos para la implementación de inteligencia urbana. Este entorno favorable se refleja en el tejido empresarial: en 2024, Sevilla superó por primera vez en una década a Málaga en número de empresas tecnológicas activas (251 frente a 234), evidenciando un mercado maduro y competitivo para la implantación de soluciones de virtualización y monitorización IoT.
