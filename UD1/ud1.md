@@ -65,7 +65,9 @@ En el ámbito industrial y de propiedad intelectual el proyecto va a respetar la
 
 ![Roadmap](https://img.shields.io/badge/Roadmap%20%7C%20Fases%20%7C%20Planificación--2C3E50?style=for-the-badge&logo=trello)
 
+El proyecto se va a estructurar en 5 fases secuenciales que garantizan el exito tecnico: fase 1: diseño de la topología y direccionamiento IP, fase 2: la infraestructura hardware para el hypervisor Proxmox, fase 3: centrada en la segmentacion con vlanes y firewall, la fase 4: para el despliegue de zabbix y grafana y la fase 5 para la politica de backups y documentación. 
 
+Por otro lado ahora si vamos a cubir la parte de viabilidad economica del presupuesto ya que el coste estimado del hardware de servidor, switches y sensores se situaría entre los 2500 y 3000 euros, que es una cifra muy asumible para una pyme del sector vitivinícola. Es importante tener en cuenta que el software que utilizaremos es 100% opensource por lo que el coste de implementarlos es 0, asi que el coste operativo se reduce en gran manera. Esto confirma definitivamente que el proyecto es financieramente sostenible.
 
 ![Captura del entorno](./img/fianl.png)
 
