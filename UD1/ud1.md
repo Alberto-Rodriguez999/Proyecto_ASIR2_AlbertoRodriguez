@@ -14,7 +14,7 @@ El sector tecnológico es el principal motor de crecimiento en la región de And
 Por otro lado Sevilla es la líder en tecnología con el cluster Andalucía Aerospace y la Agencia Espacial Española. De hecho, el inform del Sector Aeroespacial en Andalucía en 2023 registró 2700 millones de euros en facturación, demandando perfiles especializados en cuberseguridad y redes. Por otro lado tenemos inciativas como el proyecto Sevilla NODE que impulsan la necesidad de integrar IoT (Internet de las cosas) apoyandose en servidores seguros y validando la pertinencia técnica.
 
 ![Captura del entorno](./img/presentacion.png)
-
+###### *Imagen generada con Gemini Nano Banana
 
 # 2. 🍇 Selección de la empresa o contexto de trabajo
 
@@ -25,7 +25,7 @@ Este proyecto se basa en Bodegas Finca El Roble S.L., una empresa familiar ficti
 La situacion tecnologica actual de la empresa resulta en un riesgo critico ya que la bodega opera con una red plana sin segmentación, por lo que mezclan trafico de red de maquinarias, invitados y trabajadores internos. Por esto vemos que sus datos más críticos están alojados en PCs individuales sin ningún tipo de copias de seguridad. Por otro lado el control de temperatura de las naves donde se cria el vino se hace individualmente, algo demasiado tosco y desactualizado para el nivel de expandión que está alcanzando la empresa.
 
 ![Captura del entorno](./img/banner1.png)
-
+###### *Imagen generada con Gemini Nano Banana
 
 
 
@@ -37,8 +37,8 @@ El análisis de la infraestructura, que se ha contrastado con las recomendacione
 
 Lo que propone este proyecto para cubrir las necesidades de esta familiar empresa es implementar el sistema SMEGI, cuyas siglas significan: sistema de monitorizacion y gestion energetica inteligente. La solución en este caso incluye el despliegue de una arquitectura virtualizada con Proxmox para garantizar una alta disponibilidad, la segmentacion de red mediante VLANs y Firewalls para aislar el trafico industrial del administrativo. También se propone monitorización centralidad para digitalizar el control ambiental.
 
-  ![Captura del entorno](./img/innova.jpg)
-
+![Captura del entorno](./img/innova.jpg)
+###### *Imagen generada con Gemini Nano Banana
 
 # 4. 🍇  Oportunidades y viabilidad del proyecto
 ![Viabilidad](https://img.shields.io/badge/Viabilidad%20%7C%20Técnica%20%7C%20Económica--2C3E50?style=for-the-badge&logo=google-analytics)
@@ -48,7 +48,7 @@ El sistema SMEGI ofrecen muchas oportunidades estrategicas claras: ahorro de cos
 Desde una perspectiva tecnica y economica la viabilidad del proyecto esta garantizada ya que tecnicamente se utlizan estandares de mercado robustos y ampliamente documentados como son Linux, TCP/IP, etc. Por otro aldo en el plano económico (como veremos en el punto 6) es altamente rentable para una Pyme ya que estamos maximizando el uso del software libre centrando la inversion en hardware actualizado y esencial para este tipo de infraestructuras.
 
 ![Captura del entorno](./img/implementa.png)
-
+###### *Imagen generada con Gemini Nano Banana
 
 # 5. ⚖️ Obligaciones legales y normativas
 
@@ -60,7 +60,7 @@ En el ámbito industrial y de propiedad intelectual el proyecto va a respetar la
 
 
 ![Captura del entorno](./img/legalidad.png)
-
+###### *Imagen generada con Gemini Nano Banana
 # 6. 📝 Guion inicial del proyecto (Roadmap)
 
 ![Roadmap](https://img.shields.io/badge/Roadmap%20%7C%20Fases%20%7C%20Planificación--2C3E50?style=for-the-badge&logo=trello)
@@ -70,7 +70,7 @@ El proyecto se va a estructurar en 5 fases secuenciales que garantizan el exito 
 Por otro lado ahora si vamos a cubir la parte de viabilidad economica del presupuesto ya que el coste estimado del hardware de servidor, switches y sensores se situaría entre los 2500 y 3000 euros, que es una cifra muy asumible para una pyme del sector vitivinícola. Es importante tener en cuenta que el software que utilizaremos es 100% opensource por lo que el coste de implementarlos es 0, asi que el coste operativo se reduce en gran manera. Esto confirma definitivamente que el proyecto es financieramente sostenible.
 
 ![Captura del entorno](./img/fianl.png)
-
+###### *Imagen generada con Gemini Nano Banana
 
 ## Enlaces a recursos de la unidad
 
@@ -78,4 +78,4 @@ Por otro lado ahora si vamos a cubir la parte de viabilidad economica del presup
 - [Imágenes](./img/)
 
 ![UD1](./img/banner2.png)
-
+###### *Imagen generada con Gemini Nano Banana
